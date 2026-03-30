@@ -29,6 +29,7 @@ The project combines both:
 ---
 
 ##  Project Structure
+```
 .
 ├── script1.sh # System Identity Report
 ├── script2.sh # FOSS Package Inspector
@@ -36,6 +37,7 @@ The project combines both:
 ├── script4.sh # Log File Analyzer
 ├── script5.sh # Open Source Manifesto Generator
 └── README.md
+```
 
 
 ---
