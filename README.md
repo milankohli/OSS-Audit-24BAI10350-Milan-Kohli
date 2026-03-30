@@ -1,15 +1,18 @@
-# 🐧 Open Source Audit & Shell Scripting Project
+# 🐧 Open Source Audit & Shell Scripting Project 
+> Course: Open Source Software (OSS NGMC) 
+> Student Name: Milan Kohli 
+> Registration No: 24BAI10350
 
-## 📌 Overview
+##  Overview
 This project is developed as part of the **Open Source Software (OSS) course**. It focuses on understanding the open-source tool **Git** and implementing practical concepts using **Linux shell scripting in Git Bash**.
 
 The project combines both:
-- 📖 Theoretical understanding of open-source software  
-- 💻 Practical implementation using Bash scripts  
+-  Theoretical understanding of open-source software  
+-  Practical implementation using Bash scripts  
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Understand the **origin and philosophy of Git**
 - Learn about **open-source licenses (GPL)**
 - Explore **Linux system structure**
@@ -18,14 +21,14 @@ The project combines both:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Git & Git Bash  
 - Bash (Shell Scripting)  
 - Linux Commands (`ls`, `du`, `awk`, `grep`, etc.)  
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 .
 ├── script1.sh # System Identity Report
 ├── script2.sh # FOSS Package Inspector
@@ -37,9 +40,9 @@ The project combines both:
 
 ---
 
-## 📜 Scripts Description
+##  Scripts Description
 
-### 🔹 Script 1: System Identity Report
+###  Script 1: System Identity Report
 - Displays system information:
   - Kernel version
   - Current user
@@ -49,7 +52,7 @@ The project combines both:
 
 ---
 
-### 🔹 Script 2: FOSS Package Inspector
+###  Script 2: FOSS Package Inspector
 - Checks if **Git is installed**
 - Displays version using `git --version`
 - Uses:
@@ -58,7 +61,7 @@ The project combines both:
 
 ---
 
-### 🔹 Script 3: Disk and Permission Auditor
+###  Script 3: Disk and Permission Auditor
 - Audits directories like:
   - `/etc`, `/usr/bin`, `/tmp`
 - Displays:
@@ -72,7 +75,7 @@ The project combines both:
 
 ---
 
-### 🔹 Script 4: Log File Analyzer
+###  Script 4: Log File Analyzer
 - Searches a keyword in a file
 - Counts occurrences
 - Displays last matching lines
@@ -83,7 +86,7 @@ The project combines both:
 
 ---
 
-### 🔹 Script 5: Open Source Manifesto Generator
+###  Script 5: Open Source Manifesto Generator
 - Takes user input
 - Generates a custom manifesto file
 - Demonstrates:
@@ -93,19 +96,19 @@ The project combines both:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 Step 1: Open Git Bash
 
-Step 2: Navigate to project directory
+Step 2: Navigate to the project directory
 ```bash
 cd /d/shell_scripts
 ```
-Step 3:
+Step 3:Give execution permission:
 ```bash
 chmod +x *.sh
 ```
-step 4: Run all the Scripts
+Step 4: Run all the Scripts
 ```bash
 ./script1.sh
 ./script2.sh
@@ -117,6 +120,6 @@ step 4: Run all the Scripts
 
 ---
 
-✅ This will render perfectly on GitHub  
-✅ Clean + simple + exactly what teachers expect  
+ This will render perfectly on GitHub  
+
 
